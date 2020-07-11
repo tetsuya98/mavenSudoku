@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/main/java/isigroupee/Solver.java">
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/main/java/isigroupee/GrilleInterface.java">
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/main/java/isigroupee/Parser.java">
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/main/java/isigroupee/package-info.java">
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/main/java/isigroupee/Grille.java">
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/test/java/isigroupee/TestSolver.java">
+<error line="19" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" column="36" severity="error" message="&apos;16&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/test/java/isigroupee/package-info.java">
+</file>
+<file name="/var/lib/jenkins/workspace/isi05-2020-alternants-GroupeE/src/test/java/isigroupee/TestGrille.java">
+<error line="21" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="33" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="57" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="69" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="81" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="93" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="97" column="36" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="97" column="39" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="111" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="115" column="36" severity="error" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="129" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="133" column="36" severity="error" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="133" column="39" severity="error" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="147" column="34" severity="error" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+</checkstyle>
